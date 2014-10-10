@@ -1,0 +1,32 @@
+{
+  "name": "fep-util",
+  "version": "0.0.1",
+  "description": "fep util",
+  "homepage": "https://github.com/lxj/fep-util",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lxj/fep-util"
+  },
+  "keywords": [
+    "fep",
+    "fep util"
+  ],
+  "author": {
+    "name": "louxiaojian",
+    "email": "louxiaojian@gmail.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/jprichardson/node-fs-extra/raw/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "ejs": "~1.0.0",
+    "stylus":"~0.49.1"
+  },
+  "devDependencies": {
+  },
+  "main": "./lib/index",
+  "readmeFilename": "README.md"
+}
